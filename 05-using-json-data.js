@@ -11,7 +11,7 @@ const getTodos = (callback) => {
     });
 
 
-    request.open('GET', 'using json.json');   // json file 
+    request.open('GET', './06-callback-hell/user1.json');   // json file 
 
     request.send();
 
