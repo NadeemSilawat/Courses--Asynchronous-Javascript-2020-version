@@ -7,4 +7,4 @@ fetch('06-callback-hell/user1.json').then((response) => {
     console.log(data);
 }).catch((err) => {
     console.log('reject', err);
-})
+}) 
