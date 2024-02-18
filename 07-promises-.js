@@ -26,7 +26,7 @@ getTodos('./06-callback-hell/user1.json').then((data)=>{
     console.log('Promise Rejected',err);
 });
 
-
+    
 
 
 
